@@ -1,4 +1,4 @@
-# Variable Selection using correlation and significance and variance thresholding
+# Variable Selection using Correlation, Significance and Variance Thresholding
 
 ## Predicting soybean yield using the best predictors according to correlation and significance and variance thresholding.
 ### This work was my submission for phase 2 of the Dimitra x Ocean Protocol Data Challenge, for which I placed 4th.
