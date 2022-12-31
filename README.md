@@ -1,7 +1,7 @@
 # Variable Selection using Correlation, Significance and Variance Thresholding
 
 ## Predicting soybean yield using the best predictors according to Correlation, Significance and Variance Thresholding.
-### This work was my submission for phase 2 of the Dimitra x Ocean Protocol Data Challenge, for which I placed 4th.
+### This work was my submission for phase 2 of the Dimitra x Ocean Protocol Data Challenge.
 
 #### The task is to use analytical feature selection methods to reduce the computational cost of predicting soybean yield, covariance and multicollinearity between variables, by narrowing the predictors to the most relevant or influential to soybean yield. Thereby curbing the ‘curse of dimensionality’ and getting quality results from ML models.
 
